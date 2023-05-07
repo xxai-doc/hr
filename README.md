@@ -7,3 +7,4 @@ Prednji kod web stranice je otvorenog koda, dobrodošli da pomognete optimizirat
 * [front-end kod](https://github.com/xxai-art/web)
 * [Jezični paketi za web mjesto u cjelini](https://github.com/xxai-art/web/tree/main/i18n)
 * [Jezični paketi za module za prijavu](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Višejezična dokumentacija web stranice](https://github.com/xxai-doc)
