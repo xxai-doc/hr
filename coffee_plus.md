@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , dodajte neke značajke na temelju sintakse coffeescripta, pogledajte [coffee_plus](./coffee_plus.md) .
 
-* deklarirati varijablu
+## deklarirati varijablu
 
 ```
 + var1, var2
 ```
 
-* naljepnica deklaracije
+## naljepnica deklaracije
 
 `:$` je za korištenje sa [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* brz uvoz
+## brz uvoz
 
 ```
 > zx/globals:
